@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250" role="img" aria-labelledby="title desc">
+<title id="title">Secure File Sharing — encrypted documents and controlled access</title><desc id="desc">Secure File Sharing — encrypted documents and controlled access</desc>
+<defs><radialGradient id="glow"><stop stop-color="#866126" stop-opacity=".17"/><stop offset="1" stop-color="#866126" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#396D58" opacity=".10"/></pattern></defs><rect width="800" height="250" rx="18" fill="#F4F8F5"/><rect width="800" height="250" rx="18" fill="url(#dots)"/><ellipse cx="580" cy="145" rx="270" ry="235" fill="url(#glow)"/><text x="35" y="49" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="600" fill="#866126" letter-spacing="2.7">04  /  SECURE SOFTWARE</text><path d="M261 148h88M454 148h89" stroke="#B79C72" stroke-width="2" stroke-dasharray="7 10"/>
+<path d="M165 91h67l25 25v93H165z" fill="#F4EDE1" stroke="#B29261"/><path d="M232 91v25h25M184 139h53M184 158h42M184 177h53" fill="none" stroke="#A78752" stroke-width="3"/>
+<path d="M553 91h67l25 25v93H553z" fill="#F4EDE1" stroke="#B29261"/><path d="M620 91v25h25M572 139h53M572 158h42M572 177h53" fill="none" stroke="#A78752" stroke-width="3"/>
+<path d="M371 132v-26a31 31 0 0 1 62 0v26" fill="none" stroke="#9A6D21" stroke-width="7"/>
+<rect x="354" y="128" width="96" height="82" rx="16" fill="#F1E2C6" stroke="#B99350" stroke-width="2"/>
+<circle cx="402" cy="164" r="8" fill="#956A29"/><path d="M402 171v15" stroke="#956A29" stroke-width="6" stroke-linecap="round"/><rect x=".5" y=".5" width="799" height="249" rx="17.5" fill="none" stroke="#BDD2C7" stroke-opacity=".6"/></svg>

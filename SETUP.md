@@ -28,7 +28,7 @@ The repository root should contain `README.md` beside `assets/`. Do not upload t
 - `assets/projects.svg` and `assets/linkedin.svg` — linked contact buttons.
 - `assets/footer.svg` — matching closing banner.
 
-All illustrations and badges are local SVG assets. They do not need API keys, external widget services, or GitHub Actions.
+All graphics are included locally. Animated GIFs provide the lighting effects; theme-specific SVGs provide the badges, buttons, and project artwork. No API keys, external widget services, or GitHub Actions are needed.
 
 ## Make it yours
 
@@ -43,3 +43,15 @@ All illustrations and badges are local SVG assets. They do not need API keys, ex
 Check that the `assets/` folder is beside `README.md` and the spelling and capitalization of the filenames match. All image paths in the README begin with `./assets/`.
 
 GitHub's official setup reference: https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+
+## Animation and themes
+
+- The README uses GitHub's supported `<picture>` markup to show the matching light or dark artwork automatically.
+- Both themes include a looping AI banner with orbiting particles, flowing signals, a softly pulsing core, and moving light accents.
+- The closing banner is animated, and all buttons, badges, and project illustrations have matching light and dark versions.
+- Upload the **entire assets folder**, including **assets/themes/dark** and **assets/themes/light**, along with the new README. Uploading only README.md will leave the images missing.
+- Open **PREVIEW.html** after extracting the ZIP to switch between the themes locally and turn motion on or off. The preview toolbar is only in the local preview; GitHub selects the theme through its own settings.
+- For a permanently still version, change `hero.gif` to `hero.svg` and `footer.gif` to `footer.svg` in the README. The static files are included beside each animation.
+- The GIFs are visual animations; they do not display live GitHub statistics.
+
+GitHub's official theme-image guide: https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/
