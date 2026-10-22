@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250" role="img" aria-labelledby="title desc">
+<title id="title">Virtual Classroom — learning interface and real-time collaboration</title><desc id="desc">Virtual Classroom — learning interface and real-time collaboration</desc>
+<defs><radialGradient id="glow"><stop stop-color="#BBC7FF" stop-opacity=".17"/><stop offset="1" stop-color="#BBC7FF" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8AB9A9" opacity=".10"/></pattern></defs><rect width="800" height="250" rx="18" fill="#101D25"/><rect width="800" height="250" rx="18" fill="url(#dots)"/><ellipse cx="580" cy="145" rx="270" ry="235" fill="url(#glow)"/><text x="35" y="49" font-family="DejaVu Sans, Arial, sans-serif" font-size="16" font-weight="600" fill="#BBC7FF" letter-spacing="2.7">03  /  FULL-STACK WEB</text><rect x="182" y="78" width="437" height="144" rx="13" fill="#192837" stroke="#8C9DCE"/>
+<path d="M183 103h435" stroke="#495C7A"/><circle cx="199" cy="91" r="3" fill="#E5A3A0"/><circle cx="211" cy="91" r="3" fill="#E2CD8D"/><circle cx="223" cy="91" r="3" fill="#91CBA6"/>
+<rect x="199" y="117" width="206" height="89" rx="8" fill="#293953"/>
+<path d="M283 142l31 19-31 19z" fill="#C5CCFF"/>
+<rect x="419" y="117" width="182" height="89" rx="8" fill="#1E3041"/>
+<path d="M435 135h88M435 147h137M435 160h107" stroke="#7C92B6" stroke-width="3" stroke-linecap="round"/>
+<rect x="435" y="178" width="74" height="15" rx="6" fill="#B8BFF1"/>
+<circle cx="124" cy="140" r="22" fill="#22354A" stroke="#7A91AF"/><path d="M112 145q12-15 24 0" stroke="#B3C7E2" fill="none" stroke-width="3"/>
+<circle cx="676" cy="140" r="22" fill="#22354A" stroke="#7A91AF"/><path d="M664 145q12-15 24 0" stroke="#B3C7E2" fill="none" stroke-width="3"/><rect x=".5" y=".5" width="799" height="249" rx="17.5" fill="none" stroke="#3A5554" stroke-opacity=".6"/></svg>
